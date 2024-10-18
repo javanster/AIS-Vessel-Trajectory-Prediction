@@ -1,0 +1,1 @@
+vesselID_encoder -> portID_encoder -> last_known_position_processor -> time_processing -> vesselinfo_prosessing
