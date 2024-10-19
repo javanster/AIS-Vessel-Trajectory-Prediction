@@ -1,1 +1,1 @@
-vesselID_encoder -> portID_encoder -> last_known_position_processor -> time_processing -> vesselinfo_prosessing
+last_known_position_processing -> time_processing -> avg_distance_travel_processing -> vesselinfo_prosessing -> train_test_prep
