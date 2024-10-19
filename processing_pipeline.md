@@ -1,1 +1,1 @@
-last_known_position_processing -> time_processing -> avg_distance_travel_processing -> vesselinfo_prosessing -> train_test_prep
+last_known_position_processing -> last_known_cog_processing -> time_processing -> avg_distance_travel_processing -> vesselinfo_prosessing -> train_cog_model
