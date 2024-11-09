@@ -1,0 +1,5162 @@
+{
+    "61e9f38eb937134a3c4bfd8d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 0.717823522155871
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9760935678030516,
+                "learning_rate": 0.143653107220069,
+                "max_depth": 13,
+                "min_child_weight": 1,
+                "n_estimators": 533,
+                "subsample": 0.8913069140965821
+            },
+            "best_score": 0.500652939092498
+        }
+    },
+    "61e9f399b937134a3c4bfdb7": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8336582084345862,
+                "learning_rate": 0.08281463293596053,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 461,
+                "subsample": 0.9943564165441922
+            },
+            "best_score": 12.761208090873145
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 82.71558314544565
+        }
+    },
+    "61e9f39ab937134a3c4bfdbb": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9049512863264476,
+                "learning_rate": 0.11479175279631737,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 458,
+                "subsample": 0.8799721943430512
+            },
+            "best_score": 0.5802656233827961
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8068777042230437,
+                "learning_rate": 0.18639806031181733,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 503,
+                "subsample": 0.9510722820635306
+            },
+            "best_score": 2.7568781500873314
+        }
+    },
+    "61e9f39db937134a3c4bfdc5": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9049512863264476,
+                "learning_rate": 0.11479175279631737,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 458,
+                "subsample": 0.8799721943430512
+            },
+            "best_score": 3.54340497353623
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9059301156712014,
+                "learning_rate": 0.08627784363506776,
+                "max_depth": 13,
+                "min_child_weight": 1,
+                "n_estimators": 436,
+                "subsample": 0.976527268637868
+            },
+            "best_score": 34.16288926791429
+        }
+    },
+    "61e9f39eb937134a3c4bfdcb": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8764923982534326,
+                "learning_rate": 0.19748463287101825,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 450,
+                "subsample": 0.936061507717556
+            },
+            "best_score": 0.8628169271992485
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 1.4900341391878766
+        }
+    },
+    "61e9f39fb937134a3c4bfdcd": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9760935678030516,
+                "learning_rate": 0.143653107220069,
+                "max_depth": 13,
+                "min_child_weight": 1,
+                "n_estimators": 533,
+                "subsample": 0.8913069140965821
+            },
+            "best_score": 10.692607175314592
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 47.592412211730256
+        }
+    },
+    "61e9f3a0b937134a3c4bfdd1": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 1.2523909981304993
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8336582084345862,
+                "learning_rate": 0.08281463293596053,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 461,
+                "subsample": 0.9943564165441922
+            },
+            "best_score": 1.2947054654271974
+        }
+    },
+    "61e9f3a2b937134a3c4bfdd7": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8899508266739532,
+                "learning_rate": 0.10927253540027217,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 494,
+                "subsample": 0.9843748470046234
+            },
+            "best_score": 0.9336369667893843
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8093331326427231,
+                "learning_rate": 0.19606332782621888,
+                "max_depth": 13,
+                "min_child_weight": 2,
+                "n_estimators": 574,
+                "subsample": 0.9236772018666175
+            },
+            "best_score": 3.302162033037511
+        }
+    },
+    "61e9f3a2b937134a3c4bfdd9": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.971671760962744,
+                "learning_rate": 0.09889383578028271,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 489,
+                "subsample": 0.9024186116598563
+            },
+            "best_score": 4.90528848378663
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 27.673479112537922
+        }
+    },
+    "61e9f3a5b937134a3c4bfde5": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 9.119140019315678
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8764923982534326,
+                "learning_rate": 0.19748463287101825,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 450,
+                "subsample": 0.936061507717556
+            },
+            "best_score": 29.746251226120165
+        }
+    },
+    "61e9f3a7b937134a3c4bfdef": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.97000771555796,
+                "learning_rate": 0.1174176011207305,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 550,
+                "subsample": 0.9337682505327215
+            },
+            "best_score": 12.276993866947665
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8834822006297558,
+                "learning_rate": 0.08331617157060954,
+                "max_depth": 10,
+                "min_child_weight": 2,
+                "n_estimators": 571,
+                "subsample": 0.8488251044495548
+            },
+            "best_score": 11.963341270588872
+        }
+    },
+    "61e9f3a8b937134a3c4bfdf3": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 12.675427370953763
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.903550270105496,
+                "learning_rate": 0.1756565158860992,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 577,
+                "subsample": 0.9849387236557126
+            },
+            "best_score": 27.10602506627968
+        }
+    },
+    "61e9f3a8b937134a3c4bfdfd": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 9.774775520466461
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 18.299968503969065
+        }
+    },
+    "61e9f3aab937134a3c4bfe0b": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9754678706761962,
+                "learning_rate": 0.08869124415727334,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 511,
+                "subsample": 0.9110401623198925
+            },
+            "best_score": 8.495848124569982
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8068777042230437,
+                "learning_rate": 0.18639806031181733,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 503,
+                "subsample": 0.9510722820635306
+            },
+            "best_score": 29.806765635832637
+        }
+    },
+    "61e9f3aab937134a3c4bfe11": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8176985004103839,
+                "learning_rate": 0.07939742936287178,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 439,
+                "subsample": 0.9689067697356304
+            },
+            "best_score": 0.19812332437679067
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 0.373616561904313
+        }
+    },
+    "61e9f3abb937134a3c4bfe19": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9924894589884223,
+                "learning_rate": 0.08776734437380462,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 512,
+                "subsample": 0.82961738599068
+            },
+            "best_score": 3.78612379509553
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 36.47715912285987
+        }
+    },
+    "61e9f3acb937134a3c4bfe23": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 13.396586904453756
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9331844713234994,
+                "learning_rate": 0.13869466815615905,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 434,
+                "subsample": 0.89444298503239
+            },
+            "best_score": 57.60328949103269
+        }
+    },
+    "61e9f3acb937134a3c4bfe2d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9792182599846987,
+                "learning_rate": 0.09770052124577958,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 520,
+                "subsample": 0.9295380241082725
+            },
+            "best_score": 4.210285487746296
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9792182599846987,
+                "learning_rate": 0.09770052124577958,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 520,
+                "subsample": 0.9295380241082725
+            },
+            "best_score": 60.81786158394663
+        }
+    },
+    "61e9f3adb937134a3c4bfe35": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8001040753990633,
+                "learning_rate": 0.10288532845012535,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 597,
+                "subsample": 0.9021494605155131
+            },
+            "best_score": 0.9649161707714753
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8001040753990633,
+                "learning_rate": 0.10288532845012535,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 597,
+                "subsample": 0.9021494605155131
+            },
+            "best_score": 6.329597579421258
+        }
+    },
+    "61e9f3adb937134a3c4bfe39": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 2.841604182366531
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8899508266739532,
+                "learning_rate": 0.10927253540027217,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 494,
+                "subsample": 0.9843748470046234
+            },
+            "best_score": 3.2390869809268867
+        }
+    },
+    "61e9f3aeb937134a3c4bfe3d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 12.695757229711608
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 32.414070601640994
+        }
+    },
+    "61e9f3aeb937134a3c4bfe43": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 9.70607062782546
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9331844713234994,
+                "learning_rate": 0.13869466815615905,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 434,
+                "subsample": 0.89444298503239
+            },
+            "best_score": 18.055456949489816
+        }
+    },
+    "61e9f3b0b937134a3c4bfe4f": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8093331326427231,
+                "learning_rate": 0.19606332782621888,
+                "max_depth": 13,
+                "min_child_weight": 2,
+                "n_estimators": 574,
+                "subsample": 0.9236772018666175
+            },
+            "best_score": 14.066878040639864
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.903550270105496,
+                "learning_rate": 0.1756565158860992,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 577,
+                "subsample": 0.9849387236557126
+            },
+            "best_score": 10.8346690774789
+        }
+    },
+    "61e9f3b1b937134a3c4bfe55": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8093331326427231,
+                "learning_rate": 0.19606332782621888,
+                "max_depth": 13,
+                "min_child_weight": 2,
+                "n_estimators": 574,
+                "subsample": 0.9236772018666175
+            },
+            "best_score": 8.997924016284703
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9971300908221202,
+                "learning_rate": 0.08630829072672506,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 583,
+                "subsample": 0.8475275087984799
+            },
+            "best_score": 71.53341474893878
+        }
+    },
+    "61e9f3b1b937134a3c4bfe57": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8336582084345862,
+                "learning_rate": 0.08281463293596053,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 461,
+                "subsample": 0.9943564165441922
+            },
+            "best_score": 0.9171242614730918
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8093331326427231,
+                "learning_rate": 0.19606332782621888,
+                "max_depth": 13,
+                "min_child_weight": 2,
+                "n_estimators": 574,
+                "subsample": 0.9236772018666175
+            },
+            "best_score": 5.459431317711505
+        }
+    },
+    "61e9f3b1b937134a3c4bfe5b": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8239188491876603,
+                "learning_rate": 0.15698671808344924,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 541,
+                "subsample": 0.8987591192728782
+            },
+            "best_score": 2.2191945570216984
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8281848449949526,
+                "learning_rate": 0.17032954711310594,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 470,
+                "subsample": 0.884680296141274
+            },
+            "best_score": 14.342967648852742
+        }
+    },
+    "61e9f3b3b937134a3c4bfe6d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8690142496053367,
+                "learning_rate": 0.14515270170520456,
+                "max_depth": 13,
+                "min_child_weight": 2,
+                "n_estimators": 452,
+                "subsample": 0.8978905520555127
+            },
+            "best_score": 6.440453318104926
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8176985004103839,
+                "learning_rate": 0.07939742936287178,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 439,
+                "subsample": 0.9689067697356304
+            },
+            "best_score": 93.14409076806396
+        }
+    },
+    "61e9f3b4b937134a3c4bfe77": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8377414216682759,
+                "learning_rate": 0.09183070288882728,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 547,
+                "subsample": 0.9774172848530235
+            },
+            "best_score": 3.2164127305706827
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 1.5796318037952009
+        }
+    },
+    "61e9f3b8b937134a3c4bfe87": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.903550270105496,
+                "learning_rate": 0.1756565158860992,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 577,
+                "subsample": 0.9849387236557126
+            },
+            "best_score": 6.849319870459447
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 57.169977394015255
+        }
+    },
+    "61e9f3bcb937134a3c4bfe91": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8834822006297558,
+                "learning_rate": 0.08331617157060954,
+                "max_depth": 10,
+                "min_child_weight": 2,
+                "n_estimators": 571,
+                "subsample": 0.8488251044495548
+            },
+            "best_score": 10.44616061302339
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 49.79914272777295
+        }
+    },
+    "61e9f3bfb937134a3c4bfe9d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8093331326427231,
+                "learning_rate": 0.19606332782621888,
+                "max_depth": 13,
+                "min_child_weight": 2,
+                "n_estimators": 574,
+                "subsample": 0.9236772018666175
+            },
+            "best_score": 4.979492594007584
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 11.591428915213761
+        }
+    },
+    "61e9f3c1b937134a3c4bfea7": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 0.8283890262361552
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 0.9720815119771022
+        }
+    },
+    "61e9f3c1b937134a3c4bfea9": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8068777042230437,
+                "learning_rate": 0.18639806031181733,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 503,
+                "subsample": 0.9510722820635306
+            },
+            "best_score": 1.5875260916736782
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9059301156712014,
+                "learning_rate": 0.08627784363506776,
+                "max_depth": 13,
+                "min_child_weight": 1,
+                "n_estimators": 436,
+                "subsample": 0.976527268637868
+            },
+            "best_score": 2.2320788746574647
+        }
+    },
+    "61e9f3c5b937134a3c4bfec5": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9792182599846987,
+                "learning_rate": 0.09770052124577958,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 520,
+                "subsample": 0.9295380241082725
+            },
+            "best_score": 0.3430353019310744
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9924894589884223,
+                "learning_rate": 0.08776734437380462,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 512,
+                "subsample": 0.82961738599068
+            },
+            "best_score": 1.8192723668027257
+        }
+    },
+    "61e9f3c5b937134a3c4bfecb": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9049512863264476,
+                "learning_rate": 0.11479175279631737,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 458,
+                "subsample": 0.8799721943430512
+            },
+            "best_score": 0.2896342596515201
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 2.8685460288902473
+        }
+    },
+    "61e9f3c6b937134a3c4bfecf": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 6.055642496824003
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 1.5347517244251725
+        }
+    },
+    "61e9f3c6b937134a3c4bfed3": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8834822006297558,
+                "learning_rate": 0.08331617157060954,
+                "max_depth": 10,
+                "min_child_weight": 2,
+                "n_estimators": 571,
+                "subsample": 0.8488251044495548
+            },
+            "best_score": 6.74660409157833
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8899508266739532,
+                "learning_rate": 0.10927253540027217,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 494,
+                "subsample": 0.9843748470046234
+            },
+            "best_score": 1.4106007703818184
+        }
+    },
+    "61e9f3c7b937134a3c4bfed9": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8749080237694725,
+                "learning_rate": 0.19260714596148742,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 420,
+                "subsample": 0.8312037280884873
+            },
+            "best_score": 2.0002687343232917
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8749080237694725,
+                "learning_rate": 0.19260714596148742,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 420,
+                "subsample": 0.8312037280884873
+            },
+            "best_score": 0.44822238941888
+        }
+    },
+    "61e9f3c7b937134a3c4bfedf": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 10.584788717594966
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.903550270105496,
+                "learning_rate": 0.1756565158860992,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 577,
+                "subsample": 0.9849387236557126
+            },
+            "best_score": 8.398252949041234
+        }
+    },
+    "61e9f3c7b937134a3c4bfee1": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8281848449949526,
+                "learning_rate": 0.17032954711310594,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 470,
+                "subsample": 0.884680296141274
+            },
+            "best_score": 0.4668904365791251
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.878976303635114,
+                "learning_rate": 0.09402322620770573,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 480,
+                "subsample": 0.94226839054973
+            },
+            "best_score": 0.18289160334435617
+        }
+    },
+    "61e9f3c8b937134a3c4bfee3": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 0.6161818348013085
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9760935678030516,
+                "learning_rate": 0.143653107220069,
+                "max_depth": 13,
+                "min_child_weight": 1,
+                "n_estimators": 533,
+                "subsample": 0.8913069140965821
+            },
+            "best_score": 0.39942097207987026
+        }
+    },
+    "61e9f3c8b937134a3c4bfee5": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 5.731210990946951
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.971671760962744,
+                "learning_rate": 0.09889383578028271,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 489,
+                "subsample": 0.9024186116598563
+            },
+            "best_score": 2.3498979497399506
+        }
+    },
+    "61e9f3c8b937134a3c4bfeeb": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 0.3817112866577926
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.971671760962744,
+                "learning_rate": 0.09889383578028271,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 489,
+                "subsample": 0.9024186116598563
+            },
+            "best_score": 0.4625600208086748
+        }
+    },
+    "61e9f3c8b937134a3c4bfeed": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9971300908221202,
+                "learning_rate": 0.08630829072672506,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 583,
+                "subsample": 0.8475275087984799
+            },
+            "best_score": 0.3357494131473422
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9971300908221202,
+                "learning_rate": 0.08630829072672506,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 583,
+                "subsample": 0.8475275087984799
+            },
+            "best_score": 0.5275050317216861
+        }
+    },
+    "61e9f3c9b937134a3c4bfef1": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 0.3467635095758639
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8001040753990633,
+                "learning_rate": 0.10288532845012535,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 597,
+                "subsample": 0.9021494605155131
+            },
+            "best_score": 1.2581901286112906
+        }
+    },
+    "61e9f3cab937134a3c4bff01": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8068777042230437,
+                "learning_rate": 0.18639806031181733,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 503,
+                "subsample": 0.9510722820635306
+            },
+            "best_score": 2.10455787090531
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9924894589884223,
+                "learning_rate": 0.08776734437380462,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 512,
+                "subsample": 0.82961738599068
+            },
+            "best_score": 5.558158311735494
+        }
+    },
+    "61e9f3cbb937134a3c4bff03": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.903550270105496,
+                "learning_rate": 0.1756565158860992,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 577,
+                "subsample": 0.9849387236557126
+            },
+            "best_score": 5.515058430965591
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8281848449949526,
+                "learning_rate": 0.17032954711310594,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 470,
+                "subsample": 0.884680296141274
+            },
+            "best_score": 32.29575425013042
+        }
+    },
+    "61e9f3cbb937134a3c4bff07": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8336582084345862,
+                "learning_rate": 0.08281463293596053,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 461,
+                "subsample": 0.9943564165441922
+            },
+            "best_score": 0.42728215185064844
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 0.4954243767450359
+        }
+    },
+    "61e9f3d3b937134a3c4bff1b": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 11.066548127859937
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8001040753990633,
+                "learning_rate": 0.10288532845012535,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 597,
+                "subsample": 0.9021494605155131
+            },
+            "best_score": 66.18443009870452
+        }
+    },
+    "61e9f3d7b937134a3c4bff2b": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 1.5630675694561695
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8690142496053367,
+                "learning_rate": 0.14515270170520456,
+                "max_depth": 13,
+                "min_child_weight": 2,
+                "n_estimators": 452,
+                "subsample": 0.8978905520555127
+            },
+            "best_score": 22.78143457765927
+        }
+    },
+    "61e9f3d7b937134a3c4bff2d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.878976303635114,
+                "learning_rate": 0.09402322620770573,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 480,
+                "subsample": 0.94226839054973
+            },
+            "best_score": 15.053711419460981
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.903550270105496,
+                "learning_rate": 0.1756565158860992,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 577,
+                "subsample": 0.9849387236557126
+            },
+            "best_score": 79.28811398850037
+        }
+    },
+    "61e9f3dab937134a3c4bff37": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8068777042230437,
+                "learning_rate": 0.18639806031181733,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 503,
+                "subsample": 0.9510722820635306
+            },
+            "best_score": 0.5758195337390758
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9760935678030516,
+                "learning_rate": 0.143653107220069,
+                "max_depth": 13,
+                "min_child_weight": 1,
+                "n_estimators": 533,
+                "subsample": 0.8913069140965821
+            },
+            "best_score": 0.9297353774938601
+        }
+    },
+    "61e9f3dbb937134a3c4bff3d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9760935678030516,
+                "learning_rate": 0.143653107220069,
+                "max_depth": 13,
+                "min_child_weight": 1,
+                "n_estimators": 533,
+                "subsample": 0.8913069140965821
+            },
+            "best_score": 6.224816698364495
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8281848449949526,
+                "learning_rate": 0.17032954711310594,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 470,
+                "subsample": 0.884680296141274
+            },
+            "best_score": 41.41197598839408
+        }
+    },
+    "61e9f3dfb937134a3c4bff51": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8336582084345862,
+                "learning_rate": 0.08281463293596053,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 461,
+                "subsample": 0.9943564165441922
+            },
+            "best_score": 12.463526647660602
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8452991550395876,
+                "learning_rate": 0.14677591856141747,
+                "max_depth": 11,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8795144042175045
+            },
+            "best_score": 46.81239792545164
+        }
+    },
+    "61e9f3e1b937134a3c4bff5b": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 13.438718125679946
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 58.53138968689066
+        }
+    },
+    "61e9f3e2b937134a3c4bff5d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8461787651244298,
+                "learning_rate": 0.08615381990390175,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 571,
+                "subsample": 0.8990353820222541
+            },
+            "best_score": 7.46284934278862
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9754678706761962,
+                "learning_rate": 0.08869124415727334,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 511,
+                "subsample": 0.9110401623198925
+            },
+            "best_score": 35.41020435755568
+        }
+    },
+    "61e9f3ecb937134a3c4bff81": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8068777042230437,
+                "learning_rate": 0.18639806031181733,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 503,
+                "subsample": 0.9510722820635306
+            },
+            "best_score": 6.601812031635252
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 12.643461019059343
+        }
+    },
+    "61e9f3eeb937134a3c4bff87": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8749080237694725,
+                "learning_rate": 0.19260714596148742,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 420,
+                "subsample": 0.8312037280884873
+            },
+            "best_score": 1.145990770183612
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8690142496053367,
+                "learning_rate": 0.14515270170520456,
+                "max_depth": 13,
+                "min_child_weight": 2,
+                "n_estimators": 452,
+                "subsample": 0.8978905520555127
+            },
+            "best_score": 60.712459342619404
+        }
+    },
+    "61e9f3f1b937134a3c4bff8f": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9754678706761962,
+                "learning_rate": 0.08869124415727334,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 511,
+                "subsample": 0.9110401623198925
+            },
+            "best_score": 0.450585383573255
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9971300908221202,
+                "learning_rate": 0.08630829072672506,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 583,
+                "subsample": 0.8475275087984799
+            },
+            "best_score": 0.37646111158308665
+        }
+    },
+    "61e9f3f1b937134a3c4bff97": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8001040753990633,
+                "learning_rate": 0.10288532845012535,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 597,
+                "subsample": 0.9021494605155131
+            },
+            "best_score": 13.843288487362061
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 64.68611031301684
+        }
+    },
+    "61e9f3f2b937134a3c4bffa1": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9924894589884223,
+                "learning_rate": 0.08776734437380462,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 512,
+                "subsample": 0.82961738599068
+            },
+            "best_score": 6.9845028858937495
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.878976303635114,
+                "learning_rate": 0.09402322620770573,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 480,
+                "subsample": 0.94226839054973
+            },
+            "best_score": 19.965488576198595
+        }
+    },
+    "61e9f3f3b937134a3c4bffab": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 5.708483452430838
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8377414216682759,
+                "learning_rate": 0.09183070288882728,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 547,
+                "subsample": 0.9774172848530235
+            },
+            "best_score": 30.302088264315106
+        }
+    },
+    "61e9f3fbb937134a3c4bffd5": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8452991550395876,
+                "learning_rate": 0.14677591856141747,
+                "max_depth": 11,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8795144042175045
+            },
+            "best_score": 5.259596474925519
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8899508266739532,
+                "learning_rate": 0.10927253540027217,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 494,
+                "subsample": 0.9843748470046234
+            },
+            "best_score": 34.59326503111555
+        }
+    },
+    "61e9f3fdb937134a3c4bffe1": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9049512863264476,
+                "learning_rate": 0.11479175279631737,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 458,
+                "subsample": 0.8799721943430512
+            },
+            "best_score": 7.645823137413306
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9792182599846987,
+                "learning_rate": 0.09770052124577958,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 520,
+                "subsample": 0.9295380241082725
+            },
+            "best_score": 25.844776134342556
+        }
+    },
+    "61e9f3feb937134a3c4bffed": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9754678706761962,
+                "learning_rate": 0.08869124415727334,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 511,
+                "subsample": 0.9110401623198925
+            },
+            "best_score": 4.8523699540708884
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8377414216682759,
+                "learning_rate": 0.09183070288882728,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 547,
+                "subsample": 0.9774172848530235
+            },
+            "best_score": 67.37117221157634
+        }
+    },
+    "61e9f3feb937134a3c4bffef": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9792182599846987,
+                "learning_rate": 0.09770052124577958,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 520,
+                "subsample": 0.9295380241082725
+            },
+            "best_score": 7.761209293800984
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 45.02793681079697
+        }
+    },
+    "61e9f400b937134a3c4bfff7": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.903550270105496,
+                "learning_rate": 0.1756565158860992,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 577,
+                "subsample": 0.9849387236557126
+            },
+            "best_score": 5.57880856036023
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9995480970097884,
+                "learning_rate": 0.09001715214129274,
+                "max_depth": 9,
+                "min_child_weight": 2,
+                "n_estimators": 453,
+                "subsample": 0.8066101465801098
+            },
+            "best_score": 3.4577700383770513
+        }
+    },
+    "61e9f400b937134a3c4bfffd": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9331844713234994,
+                "learning_rate": 0.13869466815615905,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 434,
+                "subsample": 0.89444298503239
+            },
+            "best_score": 5.110615600323822
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8749080237694725,
+                "learning_rate": 0.19260714596148742,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 420,
+                "subsample": 0.8312037280884873
+            },
+            "best_score": 36.06987014818024
+        }
+    },
+    "61e9f400b937134a3c4bffff": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8461787651244298,
+                "learning_rate": 0.08615381990390175,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 571,
+                "subsample": 0.8990353820222541
+            },
+            "best_score": 19.645735417073727
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8281848449949526,
+                "learning_rate": 0.17032954711310594,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 470,
+                "subsample": 0.884680296141274
+            },
+            "best_score": 28.963558430311014
+        }
+    },
+    "61e9f401b937134a3c4c0003": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 1.5831173489667905
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8461787651244298,
+                "learning_rate": 0.08615381990390175,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 571,
+                "subsample": 0.8990353820222541
+            },
+            "best_score": 6.548806388833094
+        }
+    },
+    "61e9f402b937134a3c4c0007": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 4.292891399147564
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8336582084345862,
+                "learning_rate": 0.08281463293596053,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 461,
+                "subsample": 0.9943564165441922
+            },
+            "best_score": 17.54210170132492
+        }
+    },
+    "61e9f402b937134a3c4c0009": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8281848449949526,
+                "learning_rate": 0.17032954711310594,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 470,
+                "subsample": 0.884680296141274
+            },
+            "best_score": 6.18079421187852
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8377414216682759,
+                "learning_rate": 0.09183070288882728,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 547,
+                "subsample": 0.9774172848530235
+            },
+            "best_score": 60.304394446670095
+        }
+    },
+    "61e9f403b937134a3c4c0011": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9272820822527561,
+                "learning_rate": 0.097153397161449,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 550,
+                "subsample": 0.9208834758555635
+            },
+            "best_score": 5.759986159782808
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9995480970097884,
+                "learning_rate": 0.09001715214129274,
+                "max_depth": 9,
+                "min_child_weight": 2,
+                "n_estimators": 453,
+                "subsample": 0.8066101465801098
+            },
+            "best_score": 51.33694841177294
+        }
+    },
+    "61e9f403b937134a3c4c0013": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 12.24697102204405
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 76.81262666713688
+        }
+    },
+    "61e9f40bb937134a3c4c002f": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8690142496053367,
+                "learning_rate": 0.14515270170520456,
+                "max_depth": 13,
+                "min_child_weight": 2,
+                "n_estimators": 452,
+                "subsample": 0.8978905520555127
+            },
+            "best_score": 12.04320145696991
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9792182599846987,
+                "learning_rate": 0.09770052124577958,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 520,
+                "subsample": 0.9295380241082725
+            },
+            "best_score": 49.46910762785492
+        }
+    },
+    "61e9f40eb937134a3c4c003f": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 14.155427342898582
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8176985004103839,
+                "learning_rate": 0.07939742936287178,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 439,
+                "subsample": 0.9689067697356304
+            },
+            "best_score": 94.2923014603918
+        }
+    },
+    "61e9f411b937134a3c4c004d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9971300908221202,
+                "learning_rate": 0.08630829072672506,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 583,
+                "subsample": 0.8475275087984799
+            },
+            "best_score": 7.579322479675817
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8764923982534326,
+                "learning_rate": 0.19748463287101825,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 450,
+                "subsample": 0.936061507717556
+            },
+            "best_score": 65.03230730659463
+        }
+    },
+    "61e9f411b937134a3c4c004f": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9272820822527561,
+                "learning_rate": 0.097153397161449,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 550,
+                "subsample": 0.9208834758555635
+            },
+            "best_score": 0.9846282319056315
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.903550270105496,
+                "learning_rate": 0.1756565158860992,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 577,
+                "subsample": 0.9849387236557126
+            },
+            "best_score": 1.189285560381554
+        }
+    },
+    "61e9f412b937134a3c4c0051": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8834822006297558,
+                "learning_rate": 0.08331617157060954,
+                "max_depth": 10,
+                "min_child_weight": 2,
+                "n_estimators": 571,
+                "subsample": 0.8488251044495548
+            },
+            "best_score": 0.31469061868665366
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 0.33575587214121794
+        }
+    },
+    "61e9f413b937134a3c4c0053": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8336582084345862,
+                "learning_rate": 0.08281463293596053,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 461,
+                "subsample": 0.9943564165441922
+            },
+            "best_score": 0.6977240223558329
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 0.5052305604695234
+        }
+    },
+    "61e9f413b937134a3c4c0057": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8336582084345862,
+                "learning_rate": 0.08281463293596053,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 461,
+                "subsample": 0.9943564165441922
+            },
+            "best_score": 0.10289014929560443
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9331844713234994,
+                "learning_rate": 0.13869466815615905,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 434,
+                "subsample": 0.89444298503239
+            },
+            "best_score": 0.34707609545553275
+        }
+    },
+    "61e9f413b937134a3c4c0059": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8336582084345862,
+                "learning_rate": 0.08281463293596053,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 461,
+                "subsample": 0.9943564165441922
+            },
+            "best_score": 2.2557667516753206
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 1.033130589744216
+        }
+    },
+    "61e9f414b937134a3c4c005f": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9049512863264476,
+                "learning_rate": 0.11479175279631737,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 458,
+                "subsample": 0.8799721943430512
+            },
+            "best_score": 0.13007388322280178
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9924894589884223,
+                "learning_rate": 0.08776734437380462,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 512,
+                "subsample": 0.82961738599068
+            },
+            "best_score": 0.11062043550702966
+        }
+    },
+    "61e9f415b937134a3c4c0063": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 0.2233783736584959
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8764923982534326,
+                "learning_rate": 0.19748463287101825,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 450,
+                "subsample": 0.936061507717556
+            },
+            "best_score": 0.5472192670373074
+        }
+    },
+    "61e9f415b937134a3c4c0065": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9272820822527561,
+                "learning_rate": 0.097153397161449,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 550,
+                "subsample": 0.9208834758555635
+            },
+            "best_score": 0.13637858616576534
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9995480970097884,
+                "learning_rate": 0.09001715214129274,
+                "max_depth": 9,
+                "min_child_weight": 2,
+                "n_estimators": 453,
+                "subsample": 0.8066101465801098
+            },
+            "best_score": 0.45700091564862566
+        }
+    },
+    "61e9f416b937134a3c4c0069": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8377414216682759,
+                "learning_rate": 0.09183070288882728,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 547,
+                "subsample": 0.9774172848530235
+            },
+            "best_score": 3.8848846147337888
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8436880874433668,
+                "learning_rate": 0.11247649218055493,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 527,
+                "subsample": 0.9614880310328126
+            },
+            "best_score": 2.7118170673837896
+        }
+    },
+    "61e9f417b937134a3c4c006f": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8834822006297558,
+                "learning_rate": 0.08331617157060954,
+                "max_depth": 10,
+                "min_child_weight": 2,
+                "n_estimators": 571,
+                "subsample": 0.8488251044495548
+            },
+            "best_score": 6.0597173373203255
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8436880874433668,
+                "learning_rate": 0.11247649218055493,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 527,
+                "subsample": 0.9614880310328126
+            },
+            "best_score": 33.15666946629197
+        }
+    },
+    "61e9f41ab937134a3c4c0083": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 5.0090289665684145
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8281848449949526,
+                "learning_rate": 0.17032954711310594,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 470,
+                "subsample": 0.884680296141274
+            },
+            "best_score": 30.209026259726812
+        }
+    },
+    "61e9f41cb937134a3c4c0091": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 3.7586089604118453
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9049512863264476,
+                "learning_rate": 0.11479175279631737,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 458,
+                "subsample": 0.8799721943430512
+            },
+            "best_score": 85.00370670254284
+        }
+    },
+    "61e9f41db937134a3c4c0097": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8176985004103839,
+                "learning_rate": 0.07939742936287178,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 439,
+                "subsample": 0.9689067697356304
+            },
+            "best_score": 4.285501805455682
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 28.483216176405545
+        }
+    },
+    "61e9f41eb937134a3c4c009d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8834822006297558,
+                "learning_rate": 0.08331617157060954,
+                "max_depth": 10,
+                "min_child_weight": 2,
+                "n_estimators": 571,
+                "subsample": 0.8488251044495548
+            },
+            "best_score": 0.25010388645808906
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8281848449949526,
+                "learning_rate": 0.17032954711310594,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 470,
+                "subsample": 0.884680296141274
+            },
+            "best_score": 0.8444947381220359
+        }
+    },
+    "61e9f41eb937134a3c4c009f": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 0.4473278348734537
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8461787651244298,
+                "learning_rate": 0.08615381990390175,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 571,
+                "subsample": 0.8990353820222541
+            },
+            "best_score": 2.8276769268672965
+        }
+    },
+    "61e9f41fb937134a3c4c00a3": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.945643269722372,
+                "learning_rate": 0.10516746990788799,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 597,
+                "subsample": 0.8797648884889107
+            },
+            "best_score": 0.21855417641005215
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9760935678030516,
+                "learning_rate": 0.143653107220069,
+                "max_depth": 13,
+                "min_child_weight": 1,
+                "n_estimators": 533,
+                "subsample": 0.8913069140965821
+            },
+            "best_score": 0.6758955278657476
+        }
+    },
+    "61e9f422b937134a3c4c00c3": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.903550270105496,
+                "learning_rate": 0.1756565158860992,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 577,
+                "subsample": 0.9849387236557126
+            },
+            "best_score": 5.93014704076004
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9494640220274763,
+                "learning_rate": 0.13095381985836196,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 587,
+                "subsample": 0.9085392166316497
+            },
+            "best_score": 31.404066207250594
+        }
+    },
+    "61e9f424b937134a3c4c00cd": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9494640220274763,
+                "learning_rate": 0.13095381985836196,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 587,
+                "subsample": 0.9085392166316497
+            },
+            "best_score": 6.57066565625184
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8176985004103839,
+                "learning_rate": 0.07939742936287178,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 439,
+                "subsample": 0.9689067697356304
+            },
+            "best_score": 2.7179779512390945
+        }
+    },
+    "61e9f426b937134a3c4c00d7": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9995480970097884,
+                "learning_rate": 0.09001715214129274,
+                "max_depth": 9,
+                "min_child_weight": 2,
+                "n_estimators": 453,
+                "subsample": 0.8066101465801098
+            },
+            "best_score": 10.873223058286095
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 93.36295951826575
+        }
+    },
+    "61e9f429b937134a3c4c00df": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9754678706761962,
+                "learning_rate": 0.08869124415727334,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 511,
+                "subsample": 0.9110401623198925
+            },
+            "best_score": 0.21123698840388794
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.903550270105496,
+                "learning_rate": 0.1756565158860992,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 577,
+                "subsample": 0.9849387236557126
+            },
+            "best_score": 0.8680302260003424
+        }
+    },
+    "61e9f429b937134a3c4c00e3": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8336582084345862,
+                "learning_rate": 0.08281463293596053,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 461,
+                "subsample": 0.9943564165441922
+            },
+            "best_score": 2.7688203656225414
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8899508266739532,
+                "learning_rate": 0.10927253540027217,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 494,
+                "subsample": 0.9843748470046234
+            },
+            "best_score": 1.3986653164126537
+        }
+    },
+    "61e9f429b937134a3c4c00e5": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 0.8428502293117207
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 1.3796365383703728
+        }
+    },
+    "61e9f429b937134a3c4c00e7": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8436880874433668,
+                "learning_rate": 0.11247649218055493,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 527,
+                "subsample": 0.9614880310328126
+            },
+            "best_score": 0.08612356214415066
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9079682182603347,
+                "learning_rate": 0.0804591837102154,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 586,
+                "subsample": 0.938956986607941
+            },
+            "best_score": 0.18057178301814636
+        }
+    },
+    "61e9f42ab937134a3c4c00e9": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.945643269722372,
+                "learning_rate": 0.10516746990788799,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 597,
+                "subsample": 0.8797648884889107
+            },
+            "best_score": 0.14386484348743192
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.971671760962744,
+                "learning_rate": 0.09889383578028271,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 489,
+                "subsample": 0.9024186116598563
+            },
+            "best_score": 0.17678803894732428
+        }
+    },
+    "61e9f42ab937134a3c4c00eb": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9079682182603347,
+                "learning_rate": 0.0804591837102154,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 586,
+                "subsample": 0.938956986607941
+            },
+            "best_score": 0.8241565350003605
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 1.1876937514294192
+        }
+    },
+    "61e9f42ab937134a3c4c00ed": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8093331326427231,
+                "learning_rate": 0.19606332782621888,
+                "max_depth": 13,
+                "min_child_weight": 2,
+                "n_estimators": 574,
+                "subsample": 0.9236772018666175
+            },
+            "best_score": 0.8333587945195674
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9272820822527561,
+                "learning_rate": 0.097153397161449,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 550,
+                "subsample": 0.9208834758555635
+            },
+            "best_score": 0.8474413492670818
+        }
+    },
+    "61e9f42ab937134a3c4c00ef": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8764923982534326,
+                "learning_rate": 0.19748463287101825,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 450,
+                "subsample": 0.936061507717556
+            },
+            "best_score": 0.0993050025650868
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8377414216682759,
+                "learning_rate": 0.09183070288882728,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 547,
+                "subsample": 0.9774172848530235
+            },
+            "best_score": 0.12189493667203809
+        }
+    },
+    "61e9f430b937134a3c4c0111": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9331844713234994,
+                "learning_rate": 0.13869466815615905,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 434,
+                "subsample": 0.89444298503239
+            },
+            "best_score": 0.31972608489562876
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8093331326427231,
+                "learning_rate": 0.19606332782621888,
+                "max_depth": 13,
+                "min_child_weight": 2,
+                "n_estimators": 574,
+                "subsample": 0.9236772018666175
+            },
+            "best_score": 1.0783439385432345
+        }
+    },
+    "61e9f431b937134a3c4c0115": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 9.183762260037527
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8068777042230437,
+                "learning_rate": 0.18639806031181733,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 503,
+                "subsample": 0.9510722820635306
+            },
+            "best_score": 79.24579950500815
+        }
+    },
+    "61e9f432b937134a3c4c0119": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 2.6655355291141944
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8281848449949526,
+                "learning_rate": 0.17032954711310594,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 470,
+                "subsample": 0.884680296141274
+            },
+            "best_score": 7.320128603662376
+        }
+    },
+    "61e9f432b937134a3c4c011b": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8336582084345862,
+                "learning_rate": 0.08281463293596053,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 461,
+                "subsample": 0.9943564165441922
+            },
+            "best_score": 0.8007785015126063
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8749080237694725,
+                "learning_rate": 0.19260714596148742,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 420,
+                "subsample": 0.8312037280884873
+            },
+            "best_score": 0.4515350272570334
+        }
+    },
+    "61e9f435b937134a3c4c012d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9494640220274763,
+                "learning_rate": 0.13095381985836196,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 587,
+                "subsample": 0.9085392166316497
+            },
+            "best_score": 9.72124800101975
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 39.06422619853307
+        }
+    },
+    "61e9f436b937134a3c4c0131": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 6.033738041608189
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 20.09337496593994
+        }
+    },
+    "61e9f436b937134a3c4c0133": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 4.095012721727643
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9049512863264476,
+                "learning_rate": 0.11479175279631737,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 458,
+                "subsample": 0.8799721943430512
+            },
+            "best_score": 1.3540878167239487
+        }
+    },
+    "61e9f438b937134a3c4c0147": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9049512863264476,
+                "learning_rate": 0.11479175279631737,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 458,
+                "subsample": 0.8799721943430512
+            },
+            "best_score": 4.3985749454940635
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9494640220274763,
+                "learning_rate": 0.13095381985836196,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 587,
+                "subsample": 0.9085392166316497
+            },
+            "best_score": 20.665879812634262
+        }
+    },
+    "61e9f438b937134a3c4c0149": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.878976303635114,
+                "learning_rate": 0.09402322620770573,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 480,
+                "subsample": 0.94226839054973
+            },
+            "best_score": 0.3361379766247914
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8899508266739532,
+                "learning_rate": 0.10927253540027217,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 494,
+                "subsample": 0.9843748470046234
+            },
+            "best_score": 0.7037093187622476
+        }
+    },
+    "61e9f43cb937134a3c4c0165": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8436880874433668,
+                "learning_rate": 0.11247649218055493,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 527,
+                "subsample": 0.9614880310328126
+            },
+            "best_score": 1.7176817233099335
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9331844713234994,
+                "learning_rate": 0.13869466815615905,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 434,
+                "subsample": 0.89444298503239
+            },
+            "best_score": 32.92365745195898
+        }
+    },
+    "61e9f43cb937134a3c4c0167": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9049512863264476,
+                "learning_rate": 0.11479175279631737,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 458,
+                "subsample": 0.8799721943430512
+            },
+            "best_score": 9.361961276252687
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9059301156712014,
+                "learning_rate": 0.08627784363506776,
+                "max_depth": 13,
+                "min_child_weight": 1,
+                "n_estimators": 436,
+                "subsample": 0.976527268637868
+            },
+            "best_score": 49.60672081043102
+        }
+    },
+    "61e9f43fb937134a3c4c016d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8093331326427231,
+                "learning_rate": 0.19606332782621888,
+                "max_depth": 13,
+                "min_child_weight": 2,
+                "n_estimators": 574,
+                "subsample": 0.9236772018666175
+            },
+            "best_score": 0.17509386888152856
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8764923982534326,
+                "learning_rate": 0.19748463287101825,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 450,
+                "subsample": 0.936061507717556
+            },
+            "best_score": 0.8331400922377586
+        }
+    },
+    "61e9f43fb937134a3c4c0171": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 4.585291315068625
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 10.431798950391725
+        }
+    },
+    "61e9f43fb937134a3c4c0175": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8749080237694725,
+                "learning_rate": 0.19260714596148742,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 420,
+                "subsample": 0.8312037280884873
+            },
+            "best_score": 0.7984221039899927
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9079682182603347,
+                "learning_rate": 0.0804591837102154,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 586,
+                "subsample": 0.938956986607941
+            },
+            "best_score": 0.42188674576816493
+        }
+    },
+    "61e9f43fb937134a3c4c0177": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9059301156712014,
+                "learning_rate": 0.08627784363506776,
+                "max_depth": 13,
+                "min_child_weight": 1,
+                "n_estimators": 436,
+                "subsample": 0.976527268637868
+            },
+            "best_score": 6.865979745064778
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 6.955053093114967
+        }
+    },
+    "61e9f440b937134a3c4c0179": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9924894589884223,
+                "learning_rate": 0.08776734437380462,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 512,
+                "subsample": 0.82961738599068
+            },
+            "best_score": 1.3804982683359688
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8281848449949526,
+                "learning_rate": 0.17032954711310594,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 470,
+                "subsample": 0.884680296141274
+            },
+            "best_score": 0.7287859214096569
+        }
+    },
+    "61e9f440b937134a3c4c017d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 0.1921702470190898
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8899508266739532,
+                "learning_rate": 0.10927253540027217,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 494,
+                "subsample": 0.9843748470046234
+            },
+            "best_score": 0.21006871520607215
+        }
+    },
+    "61e9f440b937134a3c4c0181": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9079682182603347,
+                "learning_rate": 0.0804591837102154,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 586,
+                "subsample": 0.938956986607941
+            },
+            "best_score": 0.34651850546177787
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9049512863264476,
+                "learning_rate": 0.11479175279631737,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 458,
+                "subsample": 0.8799721943430512
+            },
+            "best_score": 1.2426347409597203
+        }
+    },
+    "61e9f440b937134a3c4c0183": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9049512863264476,
+                "learning_rate": 0.11479175279631737,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 458,
+                "subsample": 0.8799721943430512
+            },
+            "best_score": 0.24605275418146857
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9059301156712014,
+                "learning_rate": 0.08627784363506776,
+                "max_depth": 13,
+                "min_child_weight": 1,
+                "n_estimators": 436,
+                "subsample": 0.976527268637868
+            },
+            "best_score": 0.3771963422864193
+        }
+    },
+    "61e9f441b937134a3c4c0187": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 0.2976646454369841
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8834822006297558,
+                "learning_rate": 0.08331617157060954,
+                "max_depth": 10,
+                "min_child_weight": 2,
+                "n_estimators": 571,
+                "subsample": 0.8488251044495548
+            },
+            "best_score": 0.3642373352947917
+        }
+    },
+    "61e9f441b937134a3c4c0189": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8461787651244298,
+                "learning_rate": 0.08615381990390175,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 571,
+                "subsample": 0.8990353820222541
+            },
+            "best_score": 0.5088912833781872
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9049512863264476,
+                "learning_rate": 0.11479175279631737,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 458,
+                "subsample": 0.8799721943430512
+            },
+            "best_score": 0.5123442829652257
+        }
+    },
+    "61e9f441b937134a3c4c018f": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 0.8093886886497738
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8749080237694725,
+                "learning_rate": 0.19260714596148742,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 420,
+                "subsample": 0.8312037280884873
+            },
+            "best_score": 5.103631053834067
+        }
+    },
+    "61e9f443b937134a3c4c0197": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 1.3622324019839407
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 4.798929206309592
+        }
+    },
+    "61e9f444b937134a3c4c019f": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8764923982534326,
+                "learning_rate": 0.19748463287101825,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 450,
+                "subsample": 0.936061507717556
+            },
+            "best_score": 0.8798670392154812
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 4.368949257692808
+        }
+    },
+    "61e9f445b937134a3c4c01a3": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8749080237694725,
+                "learning_rate": 0.19260714596148742,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 420,
+                "subsample": 0.8312037280884873
+            },
+            "best_score": 7.28478692969292
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8281848449949526,
+                "learning_rate": 0.17032954711310594,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 470,
+                "subsample": 0.884680296141274
+            },
+            "best_score": 6.517235495040697
+        }
+    },
+    "61e9f446b937134a3c4c01ab": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 1.05027018431926
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8690142496053367,
+                "learning_rate": 0.14515270170520456,
+                "max_depth": 13,
+                "min_child_weight": 2,
+                "n_estimators": 452,
+                "subsample": 0.8978905520555127
+            },
+            "best_score": 2.544235797252868
+        }
+    },
+    "61e9f448b937134a3c4c01b3": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8452991550395876,
+                "learning_rate": 0.14677591856141747,
+                "max_depth": 11,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8795144042175045
+            },
+            "best_score": 2.603090360006513
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9272820822527561,
+                "learning_rate": 0.097153397161449,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 550,
+                "subsample": 0.9208834758555635
+            },
+            "best_score": 3.4678344489526864
+        }
+    },
+    "61e9f44cb937134a3c4c01c7": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9971300908221202,
+                "learning_rate": 0.08630829072672506,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 583,
+                "subsample": 0.8475275087984799
+            },
+            "best_score": 0.1693613608185027
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9760935678030516,
+                "learning_rate": 0.143653107220069,
+                "max_depth": 13,
+                "min_child_weight": 1,
+                "n_estimators": 533,
+                "subsample": 0.8913069140965821
+            },
+            "best_score": 0.062102506357017646
+        }
+    },
+    "61e9f450b937134a3c4c01d9": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8068777042230437,
+                "learning_rate": 0.18639806031181733,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 503,
+                "subsample": 0.9510722820635306
+            },
+            "best_score": 3.265662629240849
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9924894589884223,
+                "learning_rate": 0.08776734437380462,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 512,
+                "subsample": 0.82961738599068
+            },
+            "best_score": 15.466194456049516
+        }
+    },
+    "61e9f452b937134a3c4c01e9": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 8.396714986927142
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.97000771555796,
+                "learning_rate": 0.1174176011207305,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 550,
+                "subsample": 0.9337682505327215
+            },
+            "best_score": 25.08119339467149
+        }
+    },
+    "61e9f452b937134a3c4c01ed": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 0.6319860359504621
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9924894589884223,
+                "learning_rate": 0.08776734437380462,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 512,
+                "subsample": 0.82961738599068
+            },
+            "best_score": 0.4335916957010881
+        }
+    },
+    "61e9f457b937134a3c4c0205": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9494640220274763,
+                "learning_rate": 0.13095381985836196,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 587,
+                "subsample": 0.9085392166316497
+            },
+            "best_score": 4.469772179669186
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9331844713234994,
+                "learning_rate": 0.13869466815615905,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 434,
+                "subsample": 0.89444298503239
+            },
+            "best_score": 9.22997889726461
+        }
+    },
+    "61e9f45ab937134a3c4c021b": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 5.894358964745116
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 19.30229660521391
+        }
+    },
+    "61e9f45ab937134a3c4c021f": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 0.8455421693642852
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 11.92333378949373
+        }
+    },
+    "61e9f45bb937134a3c4c0221": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8436880874433668,
+                "learning_rate": 0.11247649218055493,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 527,
+                "subsample": 0.9614880310328126
+            },
+            "best_score": 6.1263011961072
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 4.02753600260487
+        }
+    },
+    "61e9f45cb937134a3c4c0227": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8764923982534326,
+                "learning_rate": 0.19748463287101825,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 450,
+                "subsample": 0.936061507717556
+            },
+            "best_score": 0.23398319715066448
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 0.40104248044269264
+        }
+    },
+    "61e9f45eb937134a3c4c0237": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 0.3143379955941394
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 0.21900206578752482
+        }
+    },
+    "61e9f45fb937134a3c4c0239": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9971300908221202,
+                "learning_rate": 0.08630829072672506,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 583,
+                "subsample": 0.8475275087984799
+            },
+            "best_score": 5.012373734218472
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 36.40388903915248
+        }
+    },
+    "61e9f45fb937134a3c4c023b": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9924894589884223,
+                "learning_rate": 0.08776734437380462,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 512,
+                "subsample": 0.82961738599068
+            },
+            "best_score": 0.39674248980906895
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9494640220274763,
+                "learning_rate": 0.13095381985836196,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 587,
+                "subsample": 0.9085392166316497
+            },
+            "best_score": 0.4769875614244888
+        }
+    },
+    "61e9f461b937134a3c4c024d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 7.7766027989222195
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9331844713234994,
+                "learning_rate": 0.13869466815615905,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 434,
+                "subsample": 0.89444298503239
+            },
+            "best_score": 25.970448862168997
+        }
+    },
+    "61e9f462b937134a3c4c0251": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9754678706761962,
+                "learning_rate": 0.08869124415727334,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 511,
+                "subsample": 0.9110401623198925
+            },
+            "best_score": 0.030640516535517165
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.97000771555796,
+                "learning_rate": 0.1174176011207305,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 550,
+                "subsample": 0.9337682505327215
+            },
+            "best_score": 0.08488222831732856
+        }
+    },
+    "61e9f462b937134a3c4c0253": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 0.06759492768172881
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8001040753990633,
+                "learning_rate": 0.10288532845012535,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 597,
+                "subsample": 0.9021494605155131
+            },
+            "best_score": 0.11928411124648668
+        }
+    },
+    "61e9f463b937134a3c4c0255": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8239188491876603,
+                "learning_rate": 0.15698671808344924,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 541,
+                "subsample": 0.8987591192728782
+            },
+            "best_score": 0.37296852134009933
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8764923982534326,
+                "learning_rate": 0.19748463287101825,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 450,
+                "subsample": 0.936061507717556
+            },
+            "best_score": 0.9784334127812331
+        }
+    },
+    "61e9f463b937134a3c4c0257": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 0.4706183902592012
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9995480970097884,
+                "learning_rate": 0.09001715214129274,
+                "max_depth": 9,
+                "min_child_weight": 2,
+                "n_estimators": 453,
+                "subsample": 0.8066101465801098
+            },
+            "best_score": 0.5469495656417452
+        }
+    },
+    "61e9f464b937134a3c4c025b": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 0.14087451180404423
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8176985004103839,
+                "learning_rate": 0.07939742936287178,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 439,
+                "subsample": 0.9689067697356304
+            },
+            "best_score": 0.7863337834977898
+        }
+    },
+    "61e9f464b937134a3c4c025d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 0.03848168068924737
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 0.06606984870145682
+        }
+    },
+    "61e9f464b937134a3c4c025f": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 0.5076180674031502
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.885031174898249,
+                "learning_rate": 0.08119124943022832,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 590,
+                "subsample": 0.9684569549189997
+            },
+            "best_score": 0.1340352034850857
+        }
+    },
+    "61e9f464b937134a3c4c0261": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8452991550395876,
+                "learning_rate": 0.14677591856141747,
+                "max_depth": 11,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8795144042175045
+            },
+            "best_score": 0.13574571597784868
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9971300908221202,
+                "learning_rate": 0.08630829072672506,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 583,
+                "subsample": 0.8475275087984799
+            },
+            "best_score": 0.3992948011608725
+        }
+    },
+    "61e9f464b937134a3c4c0263": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8749080237694725,
+                "learning_rate": 0.19260714596148742,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 420,
+                "subsample": 0.8312037280884873
+            },
+            "best_score": 0.11468604387632216
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8281848449949526,
+                "learning_rate": 0.17032954711310594,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 470,
+                "subsample": 0.884680296141274
+            },
+            "best_score": 0.21419865960066062
+        }
+    },
+    "61e9f464b937134a3c4c0265": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9792182599846987,
+                "learning_rate": 0.09770052124577958,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 520,
+                "subsample": 0.9295380241082725
+            },
+            "best_score": 0.06605180619129404
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9792182599846987,
+                "learning_rate": 0.09770052124577958,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 520,
+                "subsample": 0.9295380241082725
+            },
+            "best_score": 0.13494155389639154
+        }
+    },
+    "61e9f465b937134a3c4c0267": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 0.035423930689974875
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 0.07880438713506958
+        }
+    },
+    "61e9f465b937134a3c4c0269": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8068777042230437,
+                "learning_rate": 0.18639806031181733,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 503,
+                "subsample": 0.9510722820635306
+            },
+            "best_score": 0.3050094560432537
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 0.33450927028710337
+        }
+    },
+    "61e9f465b937134a3c4c026b": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8749080237694725,
+                "learning_rate": 0.19260714596148742,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 420,
+                "subsample": 0.8312037280884873
+            },
+            "best_score": 0.35749198047014435
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 0.393660622255185
+        }
+    },
+    "61e9f465b937134a3c4c026d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9995480970097884,
+                "learning_rate": 0.09001715214129274,
+                "max_depth": 9,
+                "min_child_weight": 2,
+                "n_estimators": 453,
+                "subsample": 0.8066101465801098
+            },
+            "best_score": 0.016462427163981937
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9079682182603347,
+                "learning_rate": 0.0804591837102154,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 586,
+                "subsample": 0.938956986607941
+            },
+            "best_score": 0.016378952316453237
+        }
+    },
+    "61e9f465b937134a3c4c0271": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9792182599846987,
+                "learning_rate": 0.09770052124577958,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 520,
+                "subsample": 0.9295380241082725
+            },
+            "best_score": 0.015714188402916975
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 0.016297542083915487
+        }
+    },
+    "61e9f466b937134a3c4c0273": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8690142496053367,
+                "learning_rate": 0.14515270170520456,
+                "max_depth": 13,
+                "min_child_weight": 2,
+                "n_estimators": 452,
+                "subsample": 0.8978905520555127
+            },
+            "best_score": 0.41865138408115676
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9924894589884223,
+                "learning_rate": 0.08776734437380462,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 512,
+                "subsample": 0.82961738599068
+            },
+            "best_score": 1.2248946549424617
+        }
+    },
+    "61e9f466b937134a3c4c0275": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8336582084345862,
+                "learning_rate": 0.08281463293596053,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 461,
+                "subsample": 0.9943564165441922
+            },
+            "best_score": 2.4645915198295723
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 2.7017225889154695
+        }
+    },
+    "61e9f466b937134a3c4c0277": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 0.07209779856293093
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8834822006297558,
+                "learning_rate": 0.08331617157060954,
+                "max_depth": 10,
+                "min_child_weight": 2,
+                "n_estimators": 571,
+                "subsample": 0.8488251044495548
+            },
+            "best_score": 0.12465406783881428
+        }
+    },
+    "61e9f467b937134a3c4c027f": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8764923982534326,
+                "learning_rate": 0.19748463287101825,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 450,
+                "subsample": 0.936061507717556
+            },
+            "best_score": 0.3173872525909058
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9494640220274763,
+                "learning_rate": 0.13095381985836196,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 587,
+                "subsample": 0.9085392166316497
+            },
+            "best_score": 0.5248710808374087
+        }
+    },
+    "61e9f467b937134a3c4c0281": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8899508266739532,
+                "learning_rate": 0.10927253540027217,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 494,
+                "subsample": 0.9843748470046234
+            },
+            "best_score": 0.12830813508642627
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 0.07185629522478461
+        }
+    },
+    "61e9f467b937134a3c4c0287": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8764923982534326,
+                "learning_rate": 0.19748463287101825,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 450,
+                "subsample": 0.936061507717556
+            },
+            "best_score": 0.10296926096149232
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 0.04335805305511159
+        }
+    },
+    "61e9f468b937134a3c4c0289": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8764923982534326,
+                "learning_rate": 0.19748463287101825,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 450,
+                "subsample": 0.936061507717556
+            },
+            "best_score": 0.17209631735585396
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 0.17713879127635238
+        }
+    },
+    "61e9f468b937134a3c4c028d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9049512863264476,
+                "learning_rate": 0.11479175279631737,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 458,
+                "subsample": 0.8799721943430512
+            },
+            "best_score": 0.19443974315458631
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9924894589884223,
+                "learning_rate": 0.08776734437380462,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 512,
+                "subsample": 0.82961738599068
+            },
+            "best_score": 0.1629644242322409
+        }
+    },
+    "61e9f468b937134a3c4c028f": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 0.28434029298316305
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9272820822527561,
+                "learning_rate": 0.097153397161449,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 550,
+                "subsample": 0.9208834758555635
+            },
+            "best_score": 0.3664306949983973
+        }
+    },
+    "61e9f469b937134a3c4c0295": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9792182599846987,
+                "learning_rate": 0.09770052124577958,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 520,
+                "subsample": 0.9295380241082725
+            },
+            "best_score": 0.12961758219454825
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 0.20266553833976186
+        }
+    },
+    "61e9f469b937134a3c4c0297": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8377414216682759,
+                "learning_rate": 0.09183070288882728,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 547,
+                "subsample": 0.9774172848530235
+            },
+            "best_score": 0.22361672433275767
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 3.639828798737508
+        }
+    },
+    "61e9f469b937134a3c4c0299": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 1.2981661914098872
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8764923982534326,
+                "learning_rate": 0.19748463287101825,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 450,
+                "subsample": 0.936061507717556
+            },
+            "best_score": 2.0494050395088332
+        }
+    },
+    "61e9f469b937134a3c4c029b": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9995480970097884,
+                "learning_rate": 0.09001715214129274,
+                "max_depth": 9,
+                "min_child_weight": 2,
+                "n_estimators": 453,
+                "subsample": 0.8066101465801098
+            },
+            "best_score": 0.30205061133684963
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9049512863264476,
+                "learning_rate": 0.11479175279631737,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 458,
+                "subsample": 0.8799721943430512
+            },
+            "best_score": 0.12791103766236914
+        }
+    },
+    "61e9f469b937134a3c4c029d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9995480970097884,
+                "learning_rate": 0.09001715214129274,
+                "max_depth": 9,
+                "min_child_weight": 2,
+                "n_estimators": 453,
+                "subsample": 0.8066101465801098
+            },
+            "best_score": 0.03770147199480733
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9059301156712014,
+                "learning_rate": 0.08627784363506776,
+                "max_depth": 13,
+                "min_child_weight": 1,
+                "n_estimators": 436,
+                "subsample": 0.976527268637868
+            },
+            "best_score": 0.02213988991583105
+        }
+    },
+    "61e9f46ab937134a3c4c02a1": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.903550270105496,
+                "learning_rate": 0.1756565158860992,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 577,
+                "subsample": 0.9849387236557126
+            },
+            "best_score": 0.04037105756177778
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8749080237694725,
+                "learning_rate": 0.19260714596148742,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 420,
+                "subsample": 0.8312037280884873
+            },
+            "best_score": 0.06624206439521524
+        }
+    },
+    "61e9f46ab937134a3c4c02a3": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 0.06678402273073275
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9995480970097884,
+                "learning_rate": 0.09001715214129274,
+                "max_depth": 9,
+                "min_child_weight": 2,
+                "n_estimators": 453,
+                "subsample": 0.8066101465801098
+            },
+            "best_score": 0.3905495156658409
+        }
+    },
+    "61e9f46ab937134a3c4c02a7": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8436880874433668,
+                "learning_rate": 0.11247649218055493,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 527,
+                "subsample": 0.9614880310328126
+            },
+            "best_score": 0.34889306929293723
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.971671760962744,
+                "learning_rate": 0.09889383578028271,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 489,
+                "subsample": 0.9024186116598563
+            },
+            "best_score": 0.7732276073804506
+        }
+    },
+    "61e9f46ab937134a3c4c02a9": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.945643269722372,
+                "learning_rate": 0.10516746990788799,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 597,
+                "subsample": 0.8797648884889107
+            },
+            "best_score": 0.10091186551536992
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8834822006297558,
+                "learning_rate": 0.08331617157060954,
+                "max_depth": 10,
+                "min_child_weight": 2,
+                "n_estimators": 571,
+                "subsample": 0.8488251044495548
+            },
+            "best_score": 0.0803803411812134
+        }
+    },
+    "61e9f46bb937134a3c4c02ab": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9331844713234994,
+                "learning_rate": 0.13869466815615905,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 434,
+                "subsample": 0.89444298503239
+            },
+            "best_score": 0.16509111725663744
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.971671760962744,
+                "learning_rate": 0.09889383578028271,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 489,
+                "subsample": 0.9024186116598563
+            },
+            "best_score": 0.17182262577845345
+        }
+    },
+    "61e9f46bb937134a3c4c02ad": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.97000771555796,
+                "learning_rate": 0.1174176011207305,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 550,
+                "subsample": 0.9337682505327215
+            },
+            "best_score": 0.10018923071686552
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 0.18193742629582352
+        }
+    },
+    "61e9f46bb937134a3c4c02b3": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9272820822527561,
+                "learning_rate": 0.097153397161449,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 550,
+                "subsample": 0.9208834758555635
+            },
+            "best_score": 0.16316930603364257
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.878976303635114,
+                "learning_rate": 0.09402322620770573,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 480,
+                "subsample": 0.94226839054973
+            },
+            "best_score": 2.7489181339839703
+        }
+    },
+    "61e9f46bb937134a3c4c02b5": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9971300908221202,
+                "learning_rate": 0.08630829072672506,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 583,
+                "subsample": 0.8475275087984799
+            },
+            "best_score": 8.129612897625508
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8452991550395876,
+                "learning_rate": 0.14677591856141747,
+                "max_depth": 11,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8795144042175045
+            },
+            "best_score": 59.85609331493592
+        }
+    },
+    "61e9f46cb937134a3c4c02b7": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8093331326427231,
+                "learning_rate": 0.19606332782621888,
+                "max_depth": 13,
+                "min_child_weight": 2,
+                "n_estimators": 574,
+                "subsample": 0.9236772018666175
+            },
+            "best_score": 2.7141178296389565
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.885031174898249,
+                "learning_rate": 0.08119124943022832,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 590,
+                "subsample": 0.9684569549189997
+            },
+            "best_score": 32.118943433968674
+        }
+    },
+    "61e9f46fb937134a3c4c02c3": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 0.416587319412224
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9924894589884223,
+                "learning_rate": 0.08776734437380462,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 512,
+                "subsample": 0.82961738599068
+            },
+            "best_score": 1.8771781691682052
+        }
+    },
+    "61e9f470b937134a3c4c02cd": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8899508266739532,
+                "learning_rate": 0.10927253540027217,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 494,
+                "subsample": 0.9843748470046234
+            },
+            "best_score": 0.18231243069274825
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 2.521541834063734
+        }
+    },
+    "61e9f472b937134a3c4c02d5": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8239188491876603,
+                "learning_rate": 0.15698671808344924,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 541,
+                "subsample": 0.8987591192728782
+            },
+            "best_score": 8.76386180083283
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8834822006297558,
+                "learning_rate": 0.08331617157060954,
+                "max_depth": 10,
+                "min_child_weight": 2,
+                "n_estimators": 571,
+                "subsample": 0.8488251044495548
+            },
+            "best_score": 2.3140790708289747
+        }
+    },
+    "61e9f473b937134a3c4c02df": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 2.732617332494566
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8899508266739532,
+                "learning_rate": 0.10927253540027217,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 494,
+                "subsample": 0.9843748470046234
+            },
+            "best_score": 2.151000861835902
+        }
+    },
+    "61e9f477b937134a3c4c02e9": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 18.295739356947532
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 7.669226477066786
+        }
+    },
+    "61e9f47ab937134a3c4c02f9": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.878976303635114,
+                "learning_rate": 0.09402322620770573,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 480,
+                "subsample": 0.94226839054973
+            },
+            "best_score": 10.335858570387783
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8336582084345862,
+                "learning_rate": 0.08281463293596053,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 461,
+                "subsample": 0.9943564165441922
+            },
+            "best_score": 69.7091404779318
+        }
+    },
+    "621f63e858ea7fcc9448e43c": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9331844713234994,
+                "learning_rate": 0.13869466815615905,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 434,
+                "subsample": 0.89444298503239
+            },
+            "best_score": 0.3307282167025148
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 0.4836642802414583
+        }
+    },
+    "6221415231029706cf606f4d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 6.8095146485903255
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8336582084345862,
+                "learning_rate": 0.08281463293596053,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 461,
+                "subsample": 0.9943564165441922
+            },
+            "best_score": 12.007154503809483
+        }
+    },
+    "62f94e6102767739ab32c7aa": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 1.9403977362731226
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8239188491876603,
+                "learning_rate": 0.15698671808344924,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 541,
+                "subsample": 0.8987591192728782
+            },
+            "best_score": 28.458790311879294
+        }
+    },
+    "630fe880698dd2548ac1ee5c": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8764923982534326,
+                "learning_rate": 0.19748463287101825,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 450,
+                "subsample": 0.936061507717556
+            },
+            "best_score": 0.06929283014432512
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 0.12342908510637148
+        }
+    },
+    "630fe8af698dd2548ac1ee5d": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8764923982534326,
+                "learning_rate": 0.19748463287101825,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 450,
+                "subsample": 0.936061507717556
+            },
+            "best_score": 0.07263885350975328
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 0.10004212536340167
+        }
+    },
+    "630fe8f1698dd2548ac1ee5f": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 11.74344264568179
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9792182599846987,
+                "learning_rate": 0.09770052124577958,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 520,
+                "subsample": 0.9295380241082725
+            },
+            "best_score": 7.976621727888806
+        }
+    },
+    "630fecca698dd2548ac1ee64": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9924894589884223,
+                "learning_rate": 0.08776734437380462,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 512,
+                "subsample": 0.82961738599068
+            },
+            "best_score": 0.06067285976997835
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.97000771555796,
+                "learning_rate": 0.1174176011207305,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 550,
+                "subsample": 0.9337682505327215
+            },
+            "best_score": 0.228406717692502
+        }
+    },
+    "630fed0d698dd2548ac1ee65": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.885031174898249,
+                "learning_rate": 0.08119124943022832,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 590,
+                "subsample": 0.9684569549189997
+            },
+            "best_score": 0.1352727913844993
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9049512863264476,
+                "learning_rate": 0.11479175279631737,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 458,
+                "subsample": 0.8799721943430512
+            },
+            "best_score": 0.8967877241918125
+        }
+    },
+    "630fede7698dd2548ac1ee66": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9331844713234994,
+                "learning_rate": 0.13869466815615905,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 434,
+                "subsample": 0.89444298503239
+            },
+            "best_score": 0.3151751656477852
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9079682182603347,
+                "learning_rate": 0.0804591837102154,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 586,
+                "subsample": 0.938956986607941
+            },
+            "best_score": 0.6430644357621847
+        }
+    },
+    "631e2610192150e13fa41623": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8690142496053367,
+                "learning_rate": 0.14515270170520456,
+                "max_depth": 13,
+                "min_child_weight": 2,
+                "n_estimators": 452,
+                "subsample": 0.8978905520555127
+            },
+            "best_score": 5.100758400148644
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9045465658763989,
+                "learning_rate": 0.11413115275378244,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 578,
+                "subsample": 0.8062858371373469
+            },
+            "best_score": 52.33134492627878
+        }
+    },
+    "631e3d5e192150e13fa41626": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 9.494142569844461
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8899508266739532,
+                "learning_rate": 0.10927253540027217,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 494,
+                "subsample": 0.9843748470046234
+            },
+            "best_score": 13.841657499117034
+        }
+    },
+    "631e3eb0192150e13fa41628": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9754678706761962,
+                "learning_rate": 0.08869124415727334,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 511,
+                "subsample": 0.9110401623198925
+            },
+            "best_score": 7.021181951094639
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 35.49162079212942
+        }
+    },
+    "631fc1ccfe2331c1cf4131de": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9971300908221202,
+                "learning_rate": 0.08630829072672506,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 583,
+                "subsample": 0.8475275087984799
+            },
+            "best_score": 0.2649988331120365
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.944399754453365,
+                "learning_rate": 0.1907829063523625,
+                "max_depth": 9,
+                "min_child_weight": 1,
+                "n_estimators": 560,
+                "subsample": 0.8608484485919076
+            },
+            "best_score": 0.42171794857382
+        }
+    },
+    "631fc2a1fe2331c1cf4131e0": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9760935678030516,
+                "learning_rate": 0.143653107220069,
+                "max_depth": 13,
+                "min_child_weight": 1,
+                "n_estimators": 533,
+                "subsample": 0.8913069140965821
+            },
+            "best_score": 0.8862309770324721
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9971300908221202,
+                "learning_rate": 0.08630829072672506,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 583,
+                "subsample": 0.8475275087984799
+            },
+            "best_score": 1.0097483655920885
+        }
+    },
+    "6323f09f7abc89c0a9631e56": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8899508266739532,
+                "learning_rate": 0.10927253540027217,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 494,
+                "subsample": 0.9843748470046234
+            },
+            "best_score": 4.658126945510612
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8834822006297558,
+                "learning_rate": 0.08331617157060954,
+                "max_depth": 10,
+                "min_child_weight": 2,
+                "n_estimators": 571,
+                "subsample": 0.8488251044495548
+            },
+            "best_score": 59.7148447914626
+        }
+    },
+    "6323f2287abc89c0a9631e57": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8068777042230437,
+                "learning_rate": 0.18639806031181733,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 503,
+                "subsample": 0.9510722820635306
+            },
+            "best_score": 0.011534914280435236
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8336582084345862,
+                "learning_rate": 0.08281463293596053,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 461,
+                "subsample": 0.9943564165441922
+            },
+            "best_score": 0.01756106584028297
+        }
+    },
+    "6326e9a9c46d6a20d22ca317": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9971300908221202,
+                "learning_rate": 0.08630829072672506,
+                "max_depth": 11,
+                "min_child_weight": 3,
+                "n_estimators": 583,
+                "subsample": 0.8475275087984799
+            },
+            "best_score": 0.07374422212923155
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8900998503939086,
+                "learning_rate": 0.05198974417397998,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 408,
+                "subsample": 0.8031932504440429
+            },
+            "best_score": 0.24692180183584986
+        }
+    },
+    "6326eed6c46d6a20d22ca319": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8176985004103839,
+                "learning_rate": 0.07939742936287178,
+                "max_depth": 8,
+                "min_child_weight": 2,
+                "n_estimators": 439,
+                "subsample": 0.9689067697356304
+            },
+            "best_score": 1.744674189332236
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8899508266739532,
+                "learning_rate": 0.10927253540027217,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 494,
+                "subsample": 0.9843748470046234
+            },
+            "best_score": 3.2378882645428946
+        }
+    },
+    "6326f0e8c46d6a20d22ca31c": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8377414216682759,
+                "learning_rate": 0.09183070288882728,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 547,
+                "subsample": 0.9774172848530235
+            },
+            "best_score": 1.0939218461978686
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8281848449949526,
+                "learning_rate": 0.17032954711310594,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 470,
+                "subsample": 0.884680296141274
+            },
+            "best_score": 2.99024389088447
+        }
+    },
+    "6326f5a6c46d6a20d22ca31e": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8764923982534326,
+                "learning_rate": 0.19748463287101825,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 450,
+                "subsample": 0.936061507717556
+            },
+            "best_score": 0.5391104998461619
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8377414216682759,
+                "learning_rate": 0.09183070288882728,
+                "max_depth": 10,
+                "min_child_weight": 3,
+                "n_estimators": 547,
+                "subsample": 0.9774172848530235
+            },
+            "best_score": 0.7639589382480519
+        }
+    },
+    "6326fdeac46d6a20d22ca324": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9580351081062412,
+                "learning_rate": 0.1408939962171517,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 440,
+                "subsample": 0.9829919351087562
+            },
+            "best_score": 0.9205907498731536
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9792182599846987,
+                "learning_rate": 0.09770052124577958,
+                "max_depth": 8,
+                "min_child_weight": 1,
+                "n_estimators": 520,
+                "subsample": 0.9295380241082725
+            },
+            "best_score": 2.810820586581689
+        }
+    },
+    "63d27587e3fba838ce820405": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9079682182603347,
+                "learning_rate": 0.0804591837102154,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 586,
+                "subsample": 0.938956986607941
+            },
+            "best_score": 0.20893948075291688
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 0.37472125858803057
+        }
+    },
+    "clh6aqawa0001gh0zmijpuho1": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9079682182603347,
+                "learning_rate": 0.0804591837102154,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 586,
+                "subsample": 0.938956986607941
+            },
+            "best_score": 0.20893948075291688
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9632863746438769,
+                "learning_rate": 0.16975176874768266,
+                "max_depth": 8,
+                "min_child_weight": 3,
+                "n_estimators": 469,
+                "subsample": 0.9391625613581764
+            },
+            "best_score": 0.37472125858803057
+        }
+    },
+    "clh6aqawa0002gh0zypfa5dut": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9924894589884223,
+                "learning_rate": 0.08776734437380462,
+                "max_depth": 9,
+                "min_child_weight": 3,
+                "n_estimators": 512,
+                "subsample": 0.82961738599068
+            },
+            "best_score": 0.0696819136771105
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8311989040672406,
+                "learning_rate": 0.05871254182522992,
+                "max_depth": 12,
+                "min_child_weight": 3,
+                "n_estimators": 549,
+                "subsample": 0.8112823158054201
+            },
+            "best_score": 0.06373352057004693
+        }
+    },
+    "clh6aqawa0004gh0z12aogec9": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9760935678030516,
+                "learning_rate": 0.143653107220069,
+                "max_depth": 13,
+                "min_child_weight": 1,
+                "n_estimators": 533,
+                "subsample": 0.8913069140965821
+            },
+            "best_score": 0.12148530359736293
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8834822006297558,
+                "learning_rate": 0.08331617157060954,
+                "max_depth": 10,
+                "min_child_weight": 2,
+                "n_estimators": 571,
+                "subsample": 0.8488251044495548
+            },
+            "best_score": 0.19708318888960905
+        }
+    },
+    "clh6aqawa0006gh0zje911dl3": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.8749080237694725,
+                "learning_rate": 0.19260714596148742,
+                "max_depth": 10,
+                "min_child_weight": 1,
+                "n_estimators": 420,
+                "subsample": 0.8312037280884873
+            },
+            "best_score": 0.28506822001794996
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9331844713234994,
+                "learning_rate": 0.13869466815615905,
+                "max_depth": 13,
+                "min_child_weight": 3,
+                "n_estimators": 434,
+                "subsample": 0.89444298503239
+            },
+            "best_score": 0.20076081940351545
+        }
+    },
+    "clh6aqawa0007gh0z9h6zi9bo": {
+        "latitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.9272820822527561,
+                "learning_rate": 0.097153397161449,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 550,
+                "subsample": 0.9208834758555635
+            },
+            "best_score": 0.0937831037016667
+        },
+        "longitude_model": {
+            "best_params": {
+                "colsample_bytree": 0.885031174898249,
+                "learning_rate": 0.08119124943022832,
+                "max_depth": 11,
+                "min_child_weight": 2,
+                "n_estimators": 590,
+                "subsample": 0.9684569549189997
+            },
+            "best_score": 0.11079396496394746
+        }
+    }
+}
